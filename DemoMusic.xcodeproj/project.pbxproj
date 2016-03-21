@@ -12,6 +12,17 @@
 		9C1E1FC31C9CDB830051E946 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C1E1FC11C9CDB830051E946 /* Main.storyboard */; };
 		9C1E1FC51C9CDB830051E946 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C1E1FC41C9CDB830051E946 /* Assets.xcassets */; };
 		9C1E1FC81C9CDB830051E946 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C1E1FC61C9CDB830051E946 /* LaunchScreen.storyboard */; };
+		9C1E1FD01C9CDBA50051E946 /* california.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9C1E1FCF1C9CDBA50051E946 /* california.mp3 */; };
+		9C1E1FD21C9CDBAF0051E946 /* horse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9C1E1FD11C9CDBAF0051E946 /* horse.mp3 */; };
+		9C1E1FD41C9CDBBC0051E946 /* francisco.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9C1E1FD31C9CDBBC0051E946 /* francisco.mp3 */; };
+		9C1E1FD61C9CDBC30051E946 /* steppin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9C1E1FD51C9CDBC30051E946 /* steppin.mp3 */; };
+		9C1E1FD81C9CDBC90051E946 /* gold.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9C1E1FD71C9CDBC90051E946 /* gold.mp3 */; };
+		9C1E1FDA1C9CDBE70051E946 /* california.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C1E1FD91C9CDBE70051E946 /* california.jpg */; };
+		9C1E1FDC1C9CDBF30051E946 /* horse.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C1E1FDB1C9CDBF30051E946 /* horse.jpg */; };
+		9C1E1FDE1C9CDC040051E946 /* francisco.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C1E1FDD1C9CDC040051E946 /* francisco.jpg */; };
+		9C1E1FE21C9CDC310051E946 /* gold.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C1E1FE11C9CDC310051E946 /* gold.jpg */; };
+		9C1E1FE41C9CE9010051E946 /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1E1FE31C9CE9010051E946 /* Datos.swift */; };
+		9C1E1FE61C9CFC460051E946 /* steppin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C1E1FE51C9CFC460051E946 /* steppin.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		9C1E1FC41C9CDB830051E946 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9C1E1FC71C9CDB830051E946 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9C1E1FC91C9CDB830051E946 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C1E1FCF1C9CDBA50051E946 /* california.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = california.mp3; sourceTree = "<group>"; };
+		9C1E1FD11C9CDBAF0051E946 /* horse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = horse.mp3; sourceTree = "<group>"; };
+		9C1E1FD31C9CDBBC0051E946 /* francisco.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = francisco.mp3; sourceTree = "<group>"; };
+		9C1E1FD51C9CDBC30051E946 /* steppin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = steppin.mp3; sourceTree = "<group>"; };
+		9C1E1FD71C9CDBC90051E946 /* gold.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gold.mp3; sourceTree = "<group>"; };
+		9C1E1FD91C9CDBE70051E946 /* california.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = california.jpg; sourceTree = "<group>"; };
+		9C1E1FDB1C9CDBF30051E946 /* horse.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = horse.jpg; sourceTree = "<group>"; };
+		9C1E1FDD1C9CDC040051E946 /* francisco.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = francisco.jpg; sourceTree = "<group>"; };
+		9C1E1FE11C9CDC310051E946 /* gold.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gold.jpg; sourceTree = "<group>"; };
+		9C1E1FE31C9CE9010051E946 /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
+		9C1E1FE51C9CFC460051E946 /* steppin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = steppin.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +80,19 @@
 				9C1E1FBF1C9CDB830051E946 /* ViewController.swift */,
 				9C1E1FC11C9CDB830051E946 /* Main.storyboard */,
 				9C1E1FC41C9CDB830051E946 /* Assets.xcassets */,
+				9C1E1FCF1C9CDBA50051E946 /* california.mp3 */,
+				9C1E1FD11C9CDBAF0051E946 /* horse.mp3 */,
+				9C1E1FD31C9CDBBC0051E946 /* francisco.mp3 */,
+				9C1E1FD51C9CDBC30051E946 /* steppin.mp3 */,
+				9C1E1FD71C9CDBC90051E946 /* gold.mp3 */,
+				9C1E1FD91C9CDBE70051E946 /* california.jpg */,
+				9C1E1FDB1C9CDBF30051E946 /* horse.jpg */,
+				9C1E1FDD1C9CDC040051E946 /* francisco.jpg */,
+				9C1E1FE51C9CFC460051E946 /* steppin.jpg */,
+				9C1E1FE11C9CDC310051E946 /* gold.jpg */,
 				9C1E1FC61C9CDB830051E946 /* LaunchScreen.storyboard */,
 				9C1E1FC91C9CDB830051E946 /* Info.plist */,
+				9C1E1FE31C9CE9010051E946 /* Datos.swift */,
 			);
 			path = DemoMusic;
 			sourceTree = "<group>";
@@ -123,7 +156,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C1E1FD01C9CDBA50051E946 /* california.mp3 in Resources */,
+				9C1E1FE61C9CFC460051E946 /* steppin.jpg in Resources */,
 				9C1E1FC81C9CDB830051E946 /* LaunchScreen.storyboard in Resources */,
+				9C1E1FD21C9CDBAF0051E946 /* horse.mp3 in Resources */,
+				9C1E1FD41C9CDBBC0051E946 /* francisco.mp3 in Resources */,
+				9C1E1FDA1C9CDBE70051E946 /* california.jpg in Resources */,
+				9C1E1FD81C9CDBC90051E946 /* gold.mp3 in Resources */,
+				9C1E1FD61C9CDBC30051E946 /* steppin.mp3 in Resources */,
+				9C1E1FDE1C9CDC040051E946 /* francisco.jpg in Resources */,
+				9C1E1FDC1C9CDBF30051E946 /* horse.jpg in Resources */,
+				9C1E1FE21C9CDC310051E946 /* gold.jpg in Resources */,
 				9C1E1FC51C9CDB830051E946 /* Assets.xcassets in Resources */,
 				9C1E1FC31C9CDB830051E946 /* Main.storyboard in Resources */,
 			);
@@ -138,6 +181,7 @@
 			files = (
 				9C1E1FC01C9CDB830051E946 /* ViewController.swift in Sources */,
 				9C1E1FBE1C9CDB830051E946 /* AppDelegate.swift in Sources */,
+				9C1E1FE41C9CE9010051E946 /* Datos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
