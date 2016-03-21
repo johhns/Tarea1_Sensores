@@ -86,6 +86,9 @@ class ViewController: UIViewController {
         catch {
             print("Error de reproduccion")
         }
+        if !reproductor.playing {
+            reproductor.play()
+        }
         
     }
     
